@@ -1,6 +1,6 @@
 {
     "database": {
-        "url": "postgresql://postgres:VGDhHJwdooFcgecDVbRBucHjAvcpNkVJ@switchback.proxy.rlwy.net:36186/railway",
+        "url": "postgresql://postgres:EeWHLghFJojvJrreKXldIgmctLiRReUn@yamanote.proxy.rlwy.net:39153/railway",
         "ssl": true
     },
     "secret": "secretmakabawpalangka",
